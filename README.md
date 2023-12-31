@@ -16,10 +16,10 @@ Step 3: Have a related database.
        ~ My database Name: employee
        ~ Consists of 2 tables, user table is for login credentials. 
         user:
-      ----------------------
-      | name   |  password |
-      ----------------------     
-      |        |           |
+      ---------------------
+      | name  | password  |
+      ---------------------     
+      |       |           |
 
        ~ employee table is to perform CRUD operations.
         employee:
