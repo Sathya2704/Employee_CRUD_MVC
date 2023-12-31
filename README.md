@@ -1,5 +1,6 @@
 # Employee_CRUD_MVC
 
+CRUD - Create Read Update Delete
 MVC - Model View Controller
 
 This application is of simple CRUD operations such as : 
