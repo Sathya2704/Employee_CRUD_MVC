@@ -1,5 +1,7 @@
 # Employee_CRUD_MVC
 
+MVC - Model View Controller
+
 This application is of simple CRUD operations such as : 
 1. Register Employee
 2. Find Employee
